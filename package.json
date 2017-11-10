@@ -1,0 +1,23 @@
+{
+  "name": "advanced_hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonrrchandra/advanced_hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonrrchandra/advanced_hangman/issues"
+  },
+  "homepage": "https://github.com/nelsonrrchandra/advanced_hangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "require": "^2.4.20"
+  }
+}
